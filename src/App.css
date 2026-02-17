@@ -9,11 +9,6 @@
   overflow: hidden; /* Hide potential overflow from App */
 }
 
-.App-header {
-  background-color: #282c34;
-  padding: 20px;
-  color: white;
-}
 
 .App-main {
   padding: 2rem;
@@ -34,7 +29,7 @@
   margin-bottom: 2rem;
 }
 
-.download-section {
+.nav-section {
   margin-bottom: 2rem;
   padding: 0 1rem; /* Add some horizontal padding for smaller screens */
 }
