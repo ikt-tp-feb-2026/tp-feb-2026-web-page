@@ -10,7 +10,7 @@ function Assembly() {
         <h3>Шаг 1: Подготовьте материалы</h3>
         <p>Вам понадобятся напечатанные на 3D-принтере детали, стандартный набор электроники (esp32, шаговый двигаетль 5В, 2 серовпривода), клей (рекомендуетс термоклей или суперклей) и изолента</p>
         <p>Скачать 3д модели</p>
-        <a href="/3d-models.zip" download className="download-button">
+        <a href="https://github.com/ikt-tp-feb-2026/diy-braille-printer-3d-models/archive/refs/heads/main.zip" download className="download-button">
           Скачать
         </a>
         <h3>Шаг 2: Соберите механизм передвижения головки как на рисунке ниже</h3>
