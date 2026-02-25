@@ -14,18 +14,18 @@ function Assembly() {
           Скачать
         </a>
         <h3>Шаг 2: Соберите механизм передвижения головки как на рисунке ниже</h3>
-        <img src="" alt=":(" />
+        <img src="./head_movement.png" alt=":(" />
         <h3>Шаг 3: Соберите механизм выдавливания точек как на рисунке ниже</h3>
-        <img src="" alt=":(" />
+        <img src="./printing_head.png" alt=":(" />
         <h3>Шаг 4: Соберите механизм подачи бумаги как на рисунке ниже</h3>
         <p>На роликиподачи бумаги необходимо наматывать изоленту до тех пор пока зазор между двумя роликами не станет достаточно маленьким</p>
-        <img src="" alt=":(" />
+        <img src="./paper_feeding.png" alt=":(" />
         <h3>Шаг 5: Соберите схему показанную ниже</h3>
-        <img src="" alt=":(" />
+        <img src="./scheme.png" alt=":(" />
         <p>Питать устройство можно от любого источника 5 вольт или через разъем микроконтроллера</p>
         <h3>Шаг 5: Загрузите прошивку</h3>
         <p>Скачайте прошивку и загрузите ее в микроконтроллер</p>
-        <a href="/code.ino" download className="download-button">
+        <a href="https://github.com/ikt-tp-feb-2026/diy-braille-printer/archive/refs/heads/main.zip" download className="download-button">
           Скачать
         </a>
       </div>

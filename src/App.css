@@ -23,7 +23,7 @@
 }
 
 .printer-image img {
-  max-width: 100%;
+  max-width: 70%;
   height: auto;
   border-radius: 8px;
   margin-bottom: 2rem;
@@ -57,4 +57,8 @@
   /* This will now naturally sit at the bottom due to flex-direction: column and flex-grow: 1 on App-main */
   width: 100%;
   flex-shrink: 0; /* Prevent footer from shrinking */
+}
+
+img {
+  max-width: 100%;
 }
